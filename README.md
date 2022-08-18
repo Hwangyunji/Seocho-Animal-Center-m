@@ -1,5 +1,5 @@
 # seocho-animal-mobile
-https://hwangyunji.github.io/seocho-animal-mobile/
+https://hwangyunji.github.io/Seocho-Animal-Center-m/
 
 # 기존 사이트
 https://seocho.go.kr/site/animal/main.do
