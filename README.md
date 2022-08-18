@@ -4,6 +4,8 @@ https://hwangyunji.github.io/Seocho-Animal-Center-m/
 # 기존 사이트
 https://seocho.go.kr/site/animal/main.do
 
+<img width="446" alt="main" src="https://user-images.githubusercontent.com/105402299/185305229-e745cdd5-e387-4d8d-8e51-012fcd7fb6d9.png">
+
 # 브랜드 소개
 - 서초동물사랑센터는 유기·유실 동물을 줄이고 올바른 반려동물 문화를 조성하기 위해 설립되었습니다.
 - 유실∙유기견의 반환 및 입양을 돕는 입양센터이자 반려견 기초교육 프로그램을 제공하는 교육센터입니다.
